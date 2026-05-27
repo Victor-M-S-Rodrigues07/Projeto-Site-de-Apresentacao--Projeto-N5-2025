@@ -24,6 +24,11 @@ Outro ponto de destaque dessa versão é o *hover* dos botões, onde ao usuário
 
 Essa proposta foi realizada visando a aprovação e aprendizado prático do curso *HTML e CSS: Cabeçalho, footer e variáveis CSS* (link nos créditos no fim da documentação). <br>
 
+## <h2> 💻 Acesso ao Projeto </h2>
+
+Você pode acessar o projeto acessando [esse link do Vercel](https://projeto-site-de-apresentacao.vercel.app)
+
+
 ## <h2> 🎯 Objetivos do Curso </h2>
 
 - Entenda o dia a dia de um desenvolvedor Front-end de forma prática;
@@ -31,7 +36,6 @@ Essa proposta foi realizada visando a aprovação e aprendizado prático do curs
 - Descubra como utilizar variáveis CSS para manter seu código sustentável e limpo;
 - Trabalhe com mais de uma página HTML no mesmo projeto;
 - Conheça as pseudo classes com exemplos reais e práticos. <br>
-
 
 ## <h2> 🔗 Versão Anterior do Projeto </h2>
 
