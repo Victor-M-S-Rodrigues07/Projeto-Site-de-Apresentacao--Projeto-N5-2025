@@ -32,6 +32,13 @@ Essa proposta foi realizada visando a aprovação e aprendizado prático do curs
 - Trabalhe com mais de uma página HTML no mesmo projeto;
 - Conheça as pseudo classes com exemplos reais e práticos. <br>
 
+
+## <h2> 🔗 Versão Anterior do Projeto </h2>
+
+A versão anterior desse site pode ser encontrada [aqui](https://github.com/Victor-M-S-Rodrigues07/Projeto-Final-de-Portfolio-HTML-CSS--Projeto-N4-2025). <br>
+
+> Nota: Essa é uma série de projetos, onde cada versão aplica-se novos conceitos e aprendizados. Foi proposto separar em repositórios para fins de melhor registro e escolha do autor, dado que ir criando commits não satisfaria o objetivo do estudo sequencial.
+
 ## <h2> 🔗 Protótipo do Projeto no Figma </h2>
 
 Você pode acessar o protótipo atualizado do projeto no Figma clicando [aqui](https://www.figma.com/community/file/1410367096860989575). <br>
