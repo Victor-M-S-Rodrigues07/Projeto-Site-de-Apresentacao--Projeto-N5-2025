@@ -11,7 +11,7 @@
 - [📝 Descrição do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao--Projeto-N5-2025#--descri%C3%A7%C3%A3o-do-projeto-)
 - [💻 Acesso ao Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao--Projeto-N5-2025#--acesso-ao-projeto-)
 - [🎯 Objetivos do Curso](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao--Projeto-N5-2025#--objetivos-do-curso-)
-- [🔗 Versão Anterior do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao--Projeto-N5-2025#--vers%C3%A3o-anterior-do-projeto-)
+- [⏲ Versão Anterior do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao--Projeto-N5-2025#--vers%C3%A3o-anterior-do-projeto-)
 - [🔗 Protótipo do Projeto no Figma](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao--Projeto-N5-2025#--prot%C3%B3tipo-do-projeto-no-figma-)
 - [💻 Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao--Projeto-N5-2025#--tecnologias-utilizadas-)
 - [⚙ Funcionalidades](https://github.com/Victor-M-S-Rodrigues07/Projeto-Site-de-Apresentacao--Projeto-N5-2025#--funcionalidades-)
@@ -39,7 +39,7 @@ Você pode acessar o projeto acessando [esse link do Vercel](https://projeto-sit
 - Trabalhe com mais de uma página HTML no mesmo projeto;
 - Conheça as pseudo classes com exemplos reais e práticos. <br>
 
-## <h2> 🔗 Versão Anterior do Projeto </h2>
+## <h2> ⏲ Versão Anterior do Projeto </h2>
 
 A versão anterior desse site pode ser encontrada [aqui](https://github.com/Victor-M-S-Rodrigues07/Projeto-Final-de-Portfolio-HTML-CSS--Projeto-N4-2025). <br>
 
